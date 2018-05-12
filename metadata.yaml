@@ -1,0 +1,30 @@
+_repo: A-History-of-Roman-Literature_44975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fowler, Harold North
+    aliases:
+    - Fowler, Harold N. (Harold North)
+    - Fowler, H. N. (Harold North)
+    birthdate: 1859
+    deathdate: 1955
+    gutenberg_agent_id: '43015'
+    url: http://www.gutenberg.org/2009/agents/43015
+description: ''
+gutenberg_issued: '2014-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44975'
+  lccn: '03013632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin literature -- History and criticism'
+title: A History of Roman Literature
+url: http://www.gutenberg.org/ebooks/44975
